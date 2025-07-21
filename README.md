@@ -1,4 +1,4 @@
-### I'm Kippei, the lead of modelling and experimentation. This repository is to store the links and files that I have used for class:　Intermediate Data Science.　
+### I'm Kippei, the lead of modelling and experimentation. This repository is to store the links and files that I have used projects in Intermediate Data Science.　
 Project1:  
 https://docs.google.com/presentation/d/1EBMNERGlXFC2vMVRkuuGu0iW-lj_su53/edit?usp=sharing&ouid=113923817126063938558&rtpof=true&sd=true   
 ↑ this slide displays my EDA on actual governmental data of suicidal statistics concerning its causes.  
